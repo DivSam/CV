@@ -1,0 +1,109 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Teko', sans-serif;
+
+}
+
+h1 {
+  font-size: 500%;
+  margin: 50px auto 0 auto;
+  font-family: 'Lobster', cursive;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 250%;
+
+}
+
+h3 {
+  font-size: 200%;
+
+}
+
+p {
+  font-size: 150%;
+}
+
+a {
+  font-size: 140%;
+  color: white;
+  text-decoration: none;
+}
+a:hover{
+  color: black;
+}
+hr{
+  background-color: #008891;
+  border-style:dotted none none;
+  border-color: #00587a;
+  border-width: 10px;
+  width: 98%;
+  margin: 100px auto 100px auto;
+}
+
+.samImage {
+  max-width: 10%;
+  height: auto;
+  border-radius: 50%;
+}
+
+.typingGIF {
+  max-width: 20%;
+  height: auto;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+.htmlGIF{
+  max-width: 20%;
+  height: auto;
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+}
+
+.topcontainer {
+  background-color: #e7e7de;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.middle-container {
+  background-color: #008891;
+  padding: 100px;
+}
+
+.bottom-container {
+  background-color: #00587a;
+  color: white;
+}
+
+.bot-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.footer-link{
+  color: white;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.copyright{
+  font-size: 0.75rem;
+}
+.btn{
+  font-size: 200%;
+}
